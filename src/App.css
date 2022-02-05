@@ -11,4 +11,14 @@
 
 body{
   width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+input, button{
+  padding: 3px 5px;
+}
+
+input{
+  margin-right: 5px;
 }
